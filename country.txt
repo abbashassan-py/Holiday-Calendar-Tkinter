@@ -1,0 +1,75 @@
+Angola
+Argentina
+Australia
+Austria
+Bangladesh
+Belarus
+Belgium
+Brazil
+Bulgaria
+Burundi
+Canada
+Chile
+China
+Colombia
+Croatia
+Denmark
+Djibouti
+Dominican Republic
+Egypt
+England
+Estonia
+EuropeanCentralBank
+Finland
+France
+Georgia
+Germany
+Greece
+Honduras
+Hongkong
+Hungary
+Iceland
+India
+Israel
+Italy
+Jamaica
+Japan
+Kenya
+Korea
+Latvia
+Lesotho
+Luxembourg
+Malaysia
+Malawi
+Mexico
+Morocco
+Mozambique
+Namibia
+New Zealand
+Nicaragua
+Nigeria
+Norway
+Paraguay
+Peru
+Poland
+Portugal
+Romania
+Russia
+Saudi Arabia
+Singapore
+Slovakia
+South Africa
+Spain
+Swaziland
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Venezuela
+Vietnam
+Wales
+Zambia
+Zimbabwe
